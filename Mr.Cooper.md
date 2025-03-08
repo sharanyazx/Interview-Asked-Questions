@@ -1,3 +1,4 @@
+# Insertion Sort 
 ```` java []
 import java.util.*; 
 class Node {
@@ -145,3 +146,6 @@ Enter the elements of the linked list: 1
 1 2 4 6 8 
 
 ```
+
+# SQL Queries 
+
